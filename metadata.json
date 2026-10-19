@@ -1,0 +1,6 @@
+{
+  "name": "KeyPulse — Precision Typing Speed Tester",
+  "description": "A modern dark-themed typing speed tester with a 60-second countdown timer, real-time WPM and accuracy telemetry, character-level error highlighting, difficulty tiers, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
